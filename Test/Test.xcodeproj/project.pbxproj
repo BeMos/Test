@@ -437,7 +437,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rongyi.md;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "ff70a549-17f3-4420-bef1-087e6ab77479";
+				PROVISIONING_PROFILE = "afa4f6b1-f214-46d2-9840-907cb1993132";
 				PROVISIONING_PROFILE_SPECIFIER = mdDevForMogou;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -448,7 +448,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Shanghai Mall Go E-commerce Corp. (2P4Y9G28ZM)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Shanghai Mall Go E-commerce Corp. (2P4Y9G28ZM)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Hong Wei Yu (4WEJN23F97)";
 				DEVELOPMENT_TEAM = 2P4Y9G28ZM;
 				INFOPLIST_FILE = Test/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
@@ -456,7 +456,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.rongyi.md;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "afa4f6b1-f214-46d2-9840-907cb1993132";
-				PROVISIONING_PROFILE_SPECIFIER = mdDisForMogou;
+				PROVISIONING_PROFILE_SPECIFIER = mdDevForMogou;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
